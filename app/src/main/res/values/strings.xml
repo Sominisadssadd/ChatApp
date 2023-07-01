@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="login_hint">login</string>
+    <string name="password_hint">password</string>
+    <string name="messenger_title">Messenger</string>
+    <string name="text_view_forgot_password">Forgot password?</string>
+    <string name="textView_registration_text">Registration</string>
+    <string name="button_registration_text">Sign Up</string>
+    <string name="button_send_reset_message">Reset password</string>
+    <string name="sign_out_menu_title">Sign out</string>
+
+</resources>
